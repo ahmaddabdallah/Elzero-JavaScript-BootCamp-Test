@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DOM Selection Example</title>
+    <style>
+      body {
+        font-family: 'Arial', sans-serif;
+        background: linear-gradient(135deg, #e6f7ff, #c9d6ff);
+        color: #333;
+        line-height: 1.6;
+        padding: 20px;
+        min-height: 100vh;
+        margin: 0;
+      }
+
+      #my-div {
+        background: linear-gradient(to right, #6a11cb, #2575fc);
+        color: white;
+        padding: 20px;
+        border-radius: 10px;
+        margin-bottom: 25px;
+        box-shadow: 0 4px 15px rgba(42, 117, 252, 0.3);
+        transition: all 0.3s ease;
+      }
+
+      #my-div:hover {
+        box-shadow: 0 8px 25px rgba(42, 117, 252, 0.5);
+        transform: translateY(-3px);
+      }
+
+      p {
+        background: linear-gradient(to right, #11998e, #38ef7d);
+        color: white;
+        padding: 15px;
+        border-left: 5px solid #11998e;
+        margin: 15px 0;
+        border-radius: 0 8px 8px 0;
+        opacity: 0.9;
+        box-shadow: 0 3px 10px rgba(17, 153, 142, 0.3);
+        transition: all 0.3s ease;
+      }
+
+      p:hover {
+        opacity: 1;
+        box-shadow: 0 5px 15px rgba(17, 153, 142, 0.5);
+        transform: translateX(5px);
+      }
+
+      .my-span {
+        display: inline-block;
+        background: linear-gradient(to right, #fc466b, #3f5efb);
+        color: white;
+        padding: 8px 15px;
+        margin: 8px;
+        border-radius: 20px;
+        cursor: pointer;
+        box-shadow: 0 3px 8px rgba(252, 70, 107, 0.3);
+        transition: all 0.3s ease;
+      }
+
+      .my-span:hover {
+        background: linear-gradient(to right, #3f5efb, #fc466b);
+        box-shadow: 0 5px 15px rgba(252, 70, 107, 0.5);
+        transform: scale(1.05);
+      }
+
+      form {
+        margin: 25px 0;
+        padding: 20px;
+        background: rgba(255, 255, 255, 0.8);
+        border-radius: 10px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
+      }
+
+      form:hover {
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+        background: rgba(255, 255, 255, 0.95);
+      }
+
+      input[type='text'] {
+        padding: 12px 15px;
+        border: 2px solid #ddd;
+        border-radius: 8px;
+        width: 250px;
+        font-size: 16px;
+        transition: all 0.3s ease;
+      }
+
+      input[type='text']:focus {
+        border-color: #6a11cb;
+        box-shadow: 0 0 12px rgba(106, 17, 203, 0.6);
+        outline: none;
+        width: 280px;
+      }
+
+      a {
+        display: inline-block;
+        margin: 12px 8px;
+        padding: 10px 20px;
+        background: linear-gradient(to right, #8e2de2, #4a00e0);
+        color: white;
+        text-decoration: none;
+        border-radius: 30px;
+        box-shadow: 0 4px 10px rgba(142, 45, 226, 0.3);
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s ease;
+      }
+
+      a:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: rgba(255, 255, 255, 0.2);
+        transition: all 0.5s ease;
+      }
+
+      a:hover {
+        background: linear-gradient(to right, #4a00e0, #8e2de2);
+        box-shadow: 0 8px 20px rgba(142, 45, 226, 0.5);
+        transform: translateY(-3px);
+      }
+      
+      a:hover:before {
+        left: 100%;
+      }
+
+      body > * {
+        opacity: 1;
+        animation: fadeIn 0.8s ease-in-out;
+      }
+      
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="my-div">This is my div</div>
+
+    <p>First paragraph</p>
+    <p>Second paragraph</p>
+
+    <span class="my-span">First span</span>
+    <span class="my-span">Second span</span>
+
+    <form>
+      <input type="text" name="one" value="Form Input Value" />
+    </form>
+
+    <a href="https://example.com">First Link</a>
+    <a href="https://example.org">Second Link</a>
+    <script src="086 - What Is DOM & Select Elements.js"></script>
+  </body>
+</html>

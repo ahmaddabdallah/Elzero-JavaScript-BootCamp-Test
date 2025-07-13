@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>BOM #1 - Assignment 4</title>
+        <style>
+            body {
+                background: #f5f7fa;
+                min-height: 100vh;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-family: 'Segoe UI', Arial, sans-serif;
+            }
+            .count-down {
+                background: #fff;
+                color: #0078d7;
+                font-size: 4rem;
+                font-weight: bold;
+                padding: 2.5rem 5rem;
+                border-radius: 18px;
+                box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+                text-align: center;
+                letter-spacing: 0.1em;
+                animation: popIn 0.8s cubic-bezier(.68,-0.55,.27,1.55);
+                transition: background 0.3s, color 0.3s;
+            }
+            @keyframes popIn {
+                0% {
+                    transform: scale(0.7);
+                    opacity: 0;
+                }
+                80% {
+                    transform: scale(1.1);
+                    opacity: 1;
+                }
+                100% {
+                    transform: scale(1);
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="count-down">10</div>
+        <script src="master.js"></script>
+    </body>
+</html>

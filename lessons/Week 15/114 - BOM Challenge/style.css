@@ -1,0 +1,93 @@
+body {
+  background: #f5f7fa;
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+.container {
+  background: #fff;
+  padding: 2.5rem 2rem 2rem 2rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
+  min-width: 340px;
+  max-width: 400px;
+  width: 100%;
+}
+.form {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+.input {
+  flex: 1;
+  padding: 0.7rem 1rem;
+  border: 1px solid #d0d7e2;
+  border-radius: 6px;
+  font-size: 1rem;
+  outline: none;
+  transition: border 0.2s;
+  background: #f8fafc;
+}
+.input:focus {
+  border-color: #0078d7;
+  background: #fff;
+}
+.add {
+  background: #0078d7;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0 1.2rem;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.2s;
+}
+.add:hover {
+  background: #005fa3;
+  transform: translateY(-2px) scale(1.04);
+}
+.tasks {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+.task {
+  background: #f0f4fa;
+  padding: 0.9rem 1.1rem;
+  border-radius: 6px;
+  font-size: 1.05rem;
+  color: #222;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  animation: fadeInTask 0.5s;
+}
+@keyframes fadeInTask {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.delete {
+  background: #ff4d4f;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 0.3rem 0.8rem;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background 0.2s;
+  margin-left: 1rem;
+}
+.delete:hover {
+  background: #d9363e;
+}

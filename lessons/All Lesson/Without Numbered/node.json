@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "Ahmed",
+  "age": 25,
+  "address": {
+    "city": "Cairo",
+    "country": "Egypt"
+  },
+  "hobbies": ["reading", "swimming", "coding"]
+}

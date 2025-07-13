@@ -1,0 +1,52 @@
+body {
+  width: 100%;
+  height: 100vh;
+}
+
+.container-colors {
+  background-color: #ddd;
+  width: 60%;
+  height: 150px;
+  margin: auto;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+.container-colors li {
+  width: 90px;
+  height: 60px;
+  border-radius: 10px;
+  opacity: 0.5;
+}
+
+li.active,
+li:hover {
+  opacity: 1;
+}
+
+.red {
+  background-color: red;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+.dark {
+  background-color: black;
+}
+
+#result {
+  background-color: red;
+  width: 50%;
+  height: 200px;
+  border-radius: 10px;
+  margin: 10px auto;
+}

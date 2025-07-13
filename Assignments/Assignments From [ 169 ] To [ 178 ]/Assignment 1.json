@@ -1,0 +1,87 @@
+[
+    {
+        "id": "1",
+        "title": "Title 1",
+        "body": "Article Number 1 Body",
+        "category": "Science",
+        "author": "Philopater",
+        "date": "2023-01-15",
+        "tags": ["research", "biology", "chemistry"],
+        "comments": [
+            {
+                "user": "Ahmed",
+                "text": "Great article!",
+                "date": "2023-01-16"
+            }
+        ],
+        "views": 1250
+    },
+    {
+        "id": "2",
+        "title": "Title 2",
+        "body": "Article Number 2 Body",
+        "category": "Programming",
+        "author": "Osama",
+        "date": "2023-02-20",
+        "tags": ["javascript", "web development", "frontend"],
+        "comments": [
+            {
+                "user": "Mohamed",
+                "text": "Very helpful tutorial",
+                "date": "2023-02-21"
+            }
+        ],
+        "views": 3420
+    },
+    {
+        "id": "3",
+        "title": "Title 3",
+        "body": "Article Number 3 Body",
+        "category": "Marketing",
+        "author": "Mohamed",
+        "date": "2023-03-10",
+        "tags": ["digital marketing", "social media", "SEO"],
+        "comments": [
+            {
+                "user": "Sayed",
+                "text": "This helped my business",
+                "date": "2023-03-12"
+            }
+        ],
+        "views": 2180
+    },
+    {
+        "id": "4",
+        "title": "Title 4",
+        "body": "Article Number 4 Body",
+        "category": "Graphic Designing",
+        "author": "Sayed",
+        "date": "2023-04-05",
+        "tags": ["photoshop", "illustration", "UI design"],
+        "comments": [
+            {
+                "user": "Philopater",
+                "text": "Amazing design tips",
+                "date": "2023-04-06"
+            }
+        ],
+        "views": 1870
+    },
+    {
+        "id": "5",
+        "title": "Title 5",
+        "body": "Article Number 5 Body",
+        "category": "Game Developing",
+        "author": "Ahmed",
+        "date": "2023-05-18",
+        "tags": ["unity", "game design", "3D modeling"],
+        "comments": [
+            {
+                "user": "Osama",
+                "text": "Can't wait to try these techniques",
+                "date": "2023-05-19"
+            }
+        ],
+        "views": 2950
+    }
+]

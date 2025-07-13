@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        min-height: 5000px;
+        margin: 0;
+        padding: 0;
+        padding: 1rem;
+        background: #f5f7fa;
+        font-family: 'Segoe UI', Arial, sans-serif;
+        scroll-behavior: smooth;
+      }
+
+      button {
+        position: fixed;
+        bottom: 15px;
+        right: 15px;
+        background: #0078d7;
+        color: #fff;
+        border: none;
+        border-radius: 50%;
+        width: 56px;
+        height: 56px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+        cursor: pointer;
+        transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
+        outline: none;
+        display: none;
+      }
+
+      button:hover {
+        background: #005fa3;
+        transform: translateY(-4px) scale(1.08);
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+      }
+
+      button:active {
+        background: #004c87;
+        transform: scale(0.98);
+      }
+    </style>
+  </head>
+  <body>
+    <button>↑</button>
+    <script src="110 - Practice - Scroll To Top Using ScrollY.js"></script>
+  </body>
+</html>

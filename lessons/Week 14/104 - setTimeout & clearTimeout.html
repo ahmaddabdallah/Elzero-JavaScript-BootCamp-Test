@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>setTimeout & clearTimeout Demo</title>
+    <style>
+      body {
+        background: #f5f7fa;
+        color: #222;
+        font-family: 'Segoe UI', Arial, sans-serif;
+        min-height: 100vh;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        animation: fadeInBody 1.2s ease;
+      }
+      @keyframes fadeInBody {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .container {
+        background: #fff;
+        padding: 2rem 3rem;
+        border-radius: 12px;
+        box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+        text-align: center;
+        transform: translateY(40px);
+        opacity: 0;
+        animation: slideFadeIn 1s 0.3s forwards;
+      }
+      @keyframes slideFadeIn {
+        to {
+          transform: translateY(0);
+          opacity: 1;
+        }
+      }
+      h1 {
+        color: #0078d7;
+        margin-bottom: 1rem;
+        opacity: 0;
+        animation: fadeInTitle 0.8s 1s forwards;
+      }
+      @keyframes fadeInTitle {
+        to {
+          opacity: 1;
+        }
+      }
+      p {
+        font-size: 1.1rem;
+        margin-bottom: 2rem;
+        opacity: 0;
+        animation: fadeInPara 0.8s 1.5s forwards;
+      }
+      @keyframes fadeInPara {
+        to {
+          opacity: 1;
+        }
+      }
+      code {
+        background: #f0f0f0;
+        padding: 0.2em 0.4em;
+        border-radius: 4px;
+        font-size: 1em;
+        transition: background 0.3s;
+      }
+      code:hover {
+        background: #e0eaff;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>setTimeout &amp; clearTimeout Demo</h1>
+      <p>
+        Open the browser console to see the <code>setTimeout</code> message
+        after 3 seconds.
+      </p>
+    </div>
+
+    <button class="btn">Clear Timer Out.</button>
+    <script src="104 - setTimeout & clearTimeout.js"></script>
+  </body>
+</html>

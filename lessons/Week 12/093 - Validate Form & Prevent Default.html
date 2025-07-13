@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        height: 60vh;
+        font-family: Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        animation: fadeIn 1s ease-in;
+      }
+
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+
+      @keyframes borderAnimation {
+        0% { border-color: #ff6b6b; }
+        25% { border-color: #4ecdc4; }
+        50% { border-color: #45b7d1; }
+        66% { border-color: #dcc40d; }
+        75% { border-color: #96ceb4; }
+        88% { border-color: #1759ddb0; }
+        100% { border-color: #ff6b6b; }
+      }
+
+      form {
+        height: 250px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        width: 300px;
+        padding: 20px;
+        border: 7px solid #ff6b6b;
+        border-radius: 7px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        animation: borderAnimation 9s infinite;
+      }
+
+      form:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      }
+
+      input[type="text"] {
+        padding: 8px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        transition: border-color 0.3s ease;
+      }
+
+      input[type="text"]:focus {
+        border-color: #4CAF50;
+        outline: none;
+      }
+
+      input[type="submit"] {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+      }
+
+      input[type="submit"]:hover {
+        background-color: #45a049;
+        transform: scale(1.02);
+      }
+
+      a {
+        margin-top: 20px;
+        color: #0066cc;
+        text-decoration: none;
+        transition: color 0.3s ease;
+      }
+
+      a:hover {
+        color: #003366;
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <form action="">
+      <input type="text" name="username" placeholder="Username" />
+      <input type="text" name="age" placeholder="Age" />
+      <input type="submit" />
+    </form>
+    <a href="https://google.com">Google</a>
+    <script src="093 - Validate Form & Prevent Default.js"></script>
+  </body>
+</html>

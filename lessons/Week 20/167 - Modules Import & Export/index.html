@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>167 - Modules Import And Export</title>
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self';
+               style-src 'self' https://fonts.googleapis.com;
+               font-src 'self' https://fonts.gstatic.com"
+    />
+  </head>
+  <body>
+    <!-- No error here. Both scripts use type="module", which is correct.
+        Make sure to open this file via a local server (not file://) to avoid CORS/module errors. -->
+    <script src="main.js" type="module"></script>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
