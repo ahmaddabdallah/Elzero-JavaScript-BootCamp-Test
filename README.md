@@ -279,8 +279,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by following the Elzero Web School curriculum**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/elzero-js-course?style=social)](https://github.com/yourusername/elzero-js-course)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/elzero-js-course?style=social)](https://github.com/yourusername/elzero-js-course)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/elzero-js-course?style=social)](https://github.com/ahmadabdallahh/Elzero-JavaScript-BootCamp)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/elzero-js-course?style=social)](https://github.com/ahmadabdallahh/Elzero-JavaScript-BootCamp)
 
 </div>
 
